@@ -9,3 +9,4 @@ refurb
 flake8
 daphne
 time-machine
+django>=4.2.21 # not directly required, pinned by Snyk to avoid a vulnerability
