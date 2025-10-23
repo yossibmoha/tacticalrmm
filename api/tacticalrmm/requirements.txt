@@ -5,7 +5,7 @@ cffi==1.17.1
 channels==4.2.0
 channels_redis==4.2.1
 cryptography==44.0.2
-Django==4.2.20
+Django==4.2.21
 django-cors-headers==4.7.0
 django-allauth[socialaccount]==65.6.0
 django-filter==25.1
